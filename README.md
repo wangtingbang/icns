@@ -11,4 +11,4 @@ chmod 755 icns
 
 ##License
 
-<a href="http://creativecommons.org/licenses/by-sa/2.5/">License</a>
+<a href="http://creativecommons.org/licenses/by-sa/2.5/" target="_blank">License</a>
